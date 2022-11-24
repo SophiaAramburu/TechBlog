@@ -1,0 +1,22 @@
+<div class="container is-fluid">
+<div class="card is-wide m-4">
+  <header class="card-header">
+    <h2 class="card-header-title is-centered">
+      {{title}}
+    </h2>
+  </header>
+  <div class="card-content">
+    <div class="content">
+      {{content}}
+      <br>
+      <time>Created by: {{user.username}} at: {{format_date date_created}}</time>
+    </div>
+  </div>
+  <footer class="card-footer">
+    <a href="#" class="card-footer-item">Comment</a>
+    <a href="#" class="card-footer-item">Edit</a>
+    <a href="#" class="card-footer-item">Delete</a>
+  </footer>
+</div>
+      <button class="button is-rounded is-success"><i class="p-2 fa-solid fa-pen-to-square"></i>New Post</button>
+</div>
