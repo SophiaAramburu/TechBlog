@@ -60,7 +60,7 @@ To install connect-session-sequelize:
     npm install connect-session-sequelize
 ```
 ## Demo
-![alt text](assets/images/capture.png)
+![demo](./assets/images/capture.png)
   
 
 ## Credits
