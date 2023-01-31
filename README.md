@@ -60,6 +60,9 @@ To install connect-session-sequelize:
     npm install connect-session-sequelize
 ```
 ## Demo
+##click this link to view deployed application
+https://techbloggy.herokuapp.com/
+
 ![demo](./assets/images/Capture.PNG)
   
 
